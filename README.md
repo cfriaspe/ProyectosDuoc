@@ -1,1 +1,2 @@
-# ProyectosDuoc Proyecto 1 de programacion web
+# ProyectosDuoc 
+Proyecto 1 de programacion web
