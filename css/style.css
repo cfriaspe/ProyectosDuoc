@@ -1,61 +1,93 @@
+
 body{
-    background-color:#E6E6FA;
+    background-color:#D0ECE7;
 }
+    
 
 h1.titulo{
+
     text-align:center;
     font-size: 30px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:	#00CED1;
-    
+    color:#2980B9 ;
+
 
 }
 h2.titulo{
     text-align:left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #00CED1;
+    color: #2980B9;
 }
 h3.titulo{
     text-align:left ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #00CED1;
+    color: #2980B9;
 }
 p.parrafos{
+    text-align: left;
     font-size: 15px;
     font-family: 'Amiri', serif;
-    color:#2F4F4F;
+    color:#34495E ;
+    width: 90%;
+    height: 80%;
     
+    
+} 
+
+p.parrafos01{
+    text-align:center;
+    font-size: 15px;
+    font-family: 'Amiri', serif;
+    color:#34495E ;
+    width: 90%;
+    height: 80%;
+}
+p.parrafonosotros{
+    text-align:left;
+    font-size: 20px;
+    font-family: 'Amiri', serif;
+    color:#34495E;
+    width: 60%;
+    height: 70%;
+    margin:auto;
+    
+        
 }
 h1.gatos{
     text-align: center;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:#1E90FF;
+    color: #2980B9;
+    
 }
 h2.gatos{
     text-align: left;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:#1E90FF;
+    color: #2980B9;
+    
 }
 p.gatos01{
     font-size: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:	#696969;
+    color:#34495E;
+    
 
 
 }
 p.michi{
     font-size: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:	#000000;
+    color:#34495E;
 }
+    
 
 h1.misgatos{
     text-align:center;
     font-size: 30px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:#00CED1;
+    color: #2980B9;
+    
 }
 h2.misgatos{
     text-align:center;
@@ -70,3 +102,17 @@ h2.misgatos{
     text-align:right;
 
 }
+
+.nav01{
+    text-decoration: none;
+}
+
+.inicio{
+    display: inline;
+    text-decoration:none;
+    text-align:center;
+
+}
+
+
+
